@@ -10,6 +10,8 @@ See [INDEX.md](INDEX.md) for a full subject listing with descriptions, organized
 
 Use these BVH animations on your own drawings with the [animated_drawings_flutter](https://github.com/konyshevgmbh/animated_drawings_flutter) project — [live demo](https://konyshevgmbh.github.io/animated_drawings_flutter/).
 
+![sample](sample.gif)
+
 ### Why?
 
 I just though it would be quite convenient to have the data available through http requests on github.
